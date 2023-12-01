@@ -42,3 +42,4 @@ export const data= [
       'https://mui.com/static/logo.png',
   },
 ];
+export default data

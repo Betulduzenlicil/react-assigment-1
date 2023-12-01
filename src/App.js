@@ -1,9 +1,13 @@
+import Header from "./components/Header/Header";
+import LessonCard from "./components/LessonCard/LessonCard";
+import "./index.css"
 
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className="app">
+      <Header/>
+      <LessonCard/>
       
     </div>
   );
